@@ -1,0 +1,705 @@
+,title,comments,author,guilded,num_comments,score,pinned,subreddit,author_flair_text,created_utc,r_id,body
+0,We apologize,<praw.models.comment_forest.CommentForest object at 0x7fcfb781abe0>,ekjp,13,20928,0,False,announcements,,1436204196.0,3cbo4m,"We screwed up. Not just on July 2, but also over the past several years. We haven’t communicated well, and we have surprised moderators and the community with big changes. We have apologized and made promises to you, the moderators and the community, over many years, but time and again, we haven’t delivered on them. When you’ve had feedback or requests, we haven’t always been responsive. The mods and the community have lost trust in me and in us, the administrators of reddit.
+
+Today, we acknowledge this long history of mistakes. We are grateful for all you do for reddit, and the buck stops with me. We are taking three concrete steps:
+
+**Tools**: We will improve tools, not just promise improvements, building on work already underway.  u/deimorz and u/weffey will be working as a team with the moderators on what tools to build and then delivering them.
+
+**Communication**: u/krispykrackers is trying out the new role of Moderator Advocate. She will be the contact for moderators with reddit and will help figure out the best way to talk more often. We’re also going to figure out the best way for more administrators, including myself, to talk more often with the whole community.
+
+**Search**: We are providing an option for moderators to default to the old version of search to support your existing moderation workflows. Instructions for setting this default are [here](https://www.reddit.com/wiki/search#wiki_enabling_legacy_search).
+
+I know these are just words, and it may be hard for you to believe us. I don't have all the answers, and it will take time for us to deliver concrete results. I mean it when I say we screwed up, and we want to have a meaningful ongoing discussion. I know we've drifted out of touch with the community as we've grown and added more people, and we want to connect more. I and the team are committed to talking more often with the community, starting now.
+
+Thank you for listening. Please share feedback here. Our team is ready to respond to comments.
+"
+1,"Content Policy update. AMA Thursday, July 16th, 1pm pst.",<praw.models.comment_forest.CommentForest object at 0x7fcfb7e2f898>,spez,6,18129,0,False,announcements,,1436908016.0,3dautm,"Hey Everyone,
+
+There has been a lot of discussion lately —on reddit, in the news, and here internally— about reddit’s policy on the more offensive and obscene content on our platform. Our top priority at reddit is to develop a comprehensive Content Policy and the tools to enforce it.
+
+The overwhelming majority of content on reddit comes from wonderful, creative, funny, smart, and silly communities. That is what makes reddit great. There is also a dark side, communities whose purpose is reprehensible, and we don’t have any obligation to support them. And we also believe that some communities currently on the platform should not be here at all.
+
+Neither Alexis nor I created reddit to be a bastion of free speech, but rather as a place where open and honest discussion can happen:  These are very complicated issues, and we are putting a lot of thought into it. It’s something we’ve been thinking about for quite some time.  We haven’t had the tools to enforce policy, but now we’re building those tools and reevaluating our policy.
+
+We as a community need to decide together what our values are. To that end, I’ll be hosting an AMA on Thursday 1pm pst to present our current thinking to you, the community, and solicit your feedback.
+
+PS - I won’t be able to hang out in comments right now. Still meeting everyone here!"
+2,"Hilary Duff, AMAA!",<praw.models.comment_forest.CommentForest object at 0x7fcfb5a500f0>,hilaryduff,0,1572,0,False,IAmA,,1434398587.0,39ybrp,"Hi guys!
+
+I'm [Hilary Duff.](https://www.hilaryduff.com/home)
+
+My new single is [""Sparks""](https://itunes.apple.com/us/album/sparks-single/id980330101) and my new album, ""Breathe In. Breathe Out."" is released tomorrow June 16.
+
+I'm here at reddit with Victoria helping me out today. AMAA!
+
+https://twitter.com/HilaryDuff/status/610538727245512705
+
+**EDIT**:
+
+Thank you guys so much for taking time out of your day to be here, and asking me questions, and listen to me babble! I really hope you enjoy ""Breathe In. Breathe Out."" I thank you for sticking with me for such a long time, and supporting everything I do. And I'm just grateful. So thank you and I hope you enjoyed the chat!"
+3,"My 4 year old asked me, ""Daddy will you show your internet friends"".",<praw.models.comment_forest.CommentForest object at 0x7fcfb55a3b00>,Yellr,1,882,36,False,gaming,,1402758394.0,284ul2,
+4,"Promote ideas, protect people",<praw.models.comment_forest.CommentForest object at 0x7fcfb6bec668>,kn0thing,1,5164,78,False,blog,,1431621180.0,35ym8t,
+5,"I am a Priest in the Church of Satan. Nevermind the crazies, let's have fun and ask me anything!",<praw.models.comment_forest.CommentForest object at 0x7fcfb657ceb8>,Invisible-War,0,3369,0,False,IAmA,,1393866278.0,1zg23j,"Over the past several weeks Satanism, directly and indirectly, has caught the attention of the media. Lunatics are blaming the Devil for their deranged acts of violence, rumors of ""Satanic"" cults are spreading among the tabloids and fans of True Detective are searching for the Yellow Sign in satanic rituals. Peter H. Gilmore, the current High Priest of the Church of Satan, has been [a guest on CNN](http://religion.blogs.cnn.com/2014/02/17/satanist-church-accused-craigslist-killer-not-one-of-us/), [interviewed by the CBC](http://www.cbc.ca/day6/popupaudio.html?clipIds=2438899671) and numerous other outlets (published and unpublished) in an effort to defuse a revival of the Satanic Panic from 80's and 90's. It's a shame that for many people the only exposure to Satanism is in reaction to such grim, pointless insanity; when by and large the Satanists I know are some the most life-loving individuals I've ever encountered. 
+
+Due to the recent media exposure I'm not surprised to see several threads hitting the front page of Reddit mentioning Satanism, attempted AMA's from questionable sources, and a genuine interest in what Satanism and the Church of Satan is actually about. Obviously one can go to the Church of Satan's website and [check out the basic texts](http://churchofsatan.com/theory-practice.php) and [FAQ](http://churchofsatan.com/frequently-asked-questions.php), but we recognize that humans are social creatures and a certain level of interaction can help drive points home.  
+
+That said, my name is Raul A. and I'm an officially ordained Priest in the Church of Satan, and have been an active Satanist for over 10 years. In my time with the Church of Satan, and well before that, I've interacted with Satanists with a wide range of interests, personalities, and backgrounds. I've organized concerts with Satanic folk bands to experimental electronic musicians. I am the technical director of [Radio Free Satan](http://www.radiofreesatan.com/). My wedding was officiated by a Satanic Priest, I enjoyed Tiki drinks and 50's music with High Priestess Peggy Nadramia, and watched Kaiju films and talked Pacific Rim with High Priest Gilmore. I've also known many nonpublic Satanists who, for various reasons, cannot openly proclaim their worldviews.   
+
+Why am I doing this AMA? For one, I think the Reddit community is interested in the topic and has been mostly given a poor representation of what Satanism is about, in theory and practice. I've seen some fairly interesting questions go without responses, and mostly a lot of talk from people who ""read Crowley in high school"" (FYI, Crowley never identified himself as a Satanist, and has very little to with Satanism) or ""knew a guy once"". Responses are often such a bore and miss the point entirely.  
+
+So here's your chance, ask me anything! And, like any decent Satanist, let's make this fun! Let's try things other than the usual ""Why call it Satanism if you don't believe in Satan"" (*), let's talk about life, experiences, and the pleasures of the material world! Let the games begin!  
+
+Proof: http://imgur.com/a/wAPvz?gallery
+
+* The ""Satan"" in ""Satanism"" refers to the Hebrew word for ""the adversary"", and that is the context in which we use it. We understand that the human animal has an innate need for religion, symbolism, and dogma so we Satanists willfully choose the one we most identify with.
+
+Edit: I have a business call to attend to for an hour or so, I'll be back shortly!
+
+Edit: Seems that many of my responses have been downvoted to Hell (ba dum). Here's a handy Q&A table http://www.reddit.com/r/tabled/comments/1zgfeg/table_i_am_a_priest_in_the_church_of_satan/  
+
+Edit: Time to roll up the tent. Overall I had a fairly good time, answered a few good questions, made some new friends, and ran into some old ones. If you haven't seen my responses, especially in the first few hours of this AMA, it's because my comments were immediately being downvoted and hidden from the default views([I didn't realize Reddit were such big fans of the Westboro Baptist Church](http://www.reddit.com/r/IAmA/comments/1zg23j/i_am_a_priest_in_the_church_of_satan_nevermind/cfte5pu)). See the table above or my comment history to see my responses, [which apparently is more than most celebrity AMA's combined](http://www.reddit.com/r/IAmA/comments/1zg23j/i_am_a_priest_in_the_church_of_satan_nevermind/?sort=confidence#cftg9u9). Special thanks to the moderators who've attempted to inject some rationality and to /u/Milagre for the help with the Q&A Table."
+6,"Hey, it's Lars from Metallica. AMA",<praw.models.comment_forest.CommentForest object at 0x7fcfb361e400>,RealLarsUlrich,0,7297,79,False,IAmA,Lars Ulrich ,1391117427.0,1wl9ic,"I am Lars Ulrich, drummer for Metallica.  Our band has been around for over 30 years and the movie we made in 2012, ""Metallica Through The Never,"" just came out on DVD.  We're going to do what we love best and hit the road on tour in Latin America and Europe this Spring and Summer, where we will be playing an all request set list each night.  Go for it and ask me anything!
+
+Metallica Through The Never - http://www.throughthenevermovie.com
+
+**My Proof:** https://www.facebook.com/photo.php?fbid=10151890021595264&set=a.10150204649640264.311112.10212595263&type=1&theater
+
+UPDATE: I'll answer a couple more questions and then our time's up (I'm told).
+
+UPDATE: I gotta run - afternoon school pickup grind is commencing. Let's all meet around the keyboard again soon! Thanks to everyone for being a part of this. 
+L"
+7,I'm the CEO of Renault and Nissan and we're making autonomous driving vehicles happen by 2020. Ask me anything!,<praw.models.comment_forest.CommentForest object at 0x7fcfb8741400>,CarlosGhosn,0,4509,1801,False,IAmA,,1421101002.0,2s7obx,"I am Carlos Ghosn, the President and CEO of Renault and Nissan. Over a year ago, I made a pledge that we would bring autonomous driving vehicles to market by 2020. We're on track to make that happen. In fact last week, I announced the formation of a partnership between NASA's Ames and our Silicon Valley research centers. 
+
+Today, I revealed the new Nissan Titan at the Detroit Auto Show. Go ahead, ask me anything!
+
+My Proof: https://twitter.com/Nissan/status/553932864895864832/photo/1
+
+EDIT: I'm sorry I have to leave, but this was fun, thank you everyone for your time!
+
+EDIT 2: Hello Reddit! I wish I had more time yesterday to answer questions. I am going to try to make that up to you and answer more questions later today. Please bear with me – the hardest part is the typing."
+8,I've had my PS4 controller for a little over a week. The left stick is already a flap of rubber...,<praw.models.comment_forest.CommentForest object at 0x7fcfae8be208>,Cayos,0,1350,0,False,gaming,,1383913910.0,1q68ek,
+9,"My dad invented a tool to lift heavy bags (like kitty litter) and asked me to make an ""infomercial"" for it...",<praw.models.comment_forest.CommentForest object at 0x7fcfae8e5160>,nickelloafer,0,727,0,False,videos,,1388948384.0,1uh3ud,
+10,Emma Watson Sex Tape NSFW,<praw.models.comment_forest.CommentForest object at 0x7fcfae93b400>,Execrat0r,0,269,279,False,videos,Never gonna let you down,1427815360.0,30xn63,"Oooh
+
+We're no strangers to love
+
+
+You know the rules and so do I
+
+
+A full commitment's what I'm thinking of
+
+
+You wouldn't get this from any other guy
+
+I just wanna tell you how I'm feeling
+
+
+Gotta make you understand
+
+Never gonna give you up
+
+
+Never gonna let you down
+
+
+Never gonna run around and desert you
+
+
+Never gonna make you cry
+
+
+Never gonna say goodbye
+
+
+Never gonna tell a lie and hurt you
+
+We've known each other for so long
+
+
+Your heart's been aching, but
+
+
+You're too shy to say it
+
+
+Inside, we both know what's been going on
+
+
+We know the game and we're gonna play it
+
+And if you ask me how I'm feeling
+
+
+Don't tell me you're too blind to see
+
+Never gonna give you up
+
+
+Never gonna let you down
+
+
+Never gonna run around and desert you
+
+
+Never gonna make you cry
+
+Never gonna say goodbye
+
+Never gonna tell a lie and hurt you
+
+Never gonna give you up
+
+Never gonna let you down
+
+Never gonna run around and desert you
+
+Never gonna make you cry
+
+Never gonna say goodbye
+
+Never gonna tell a lie and hurt you
+
+(Ooh, give you up)
+
+(Ooh, give you up)
+
+Never gonna give, never gonna give
+
+(Give you up)
+
+Never gonna give, never gonna give
+
+(Give you up)
+
+We've known each other for so long
+
+Your heart's been aching, but
+
+You're too shy to say it
+
+Inside, we both know what's been going on
+
+We know the game and we're gonna play it
+
+I just wanna tell you how I'm feeling
+
+Gotta make you understand
+
+Never gonna give you up
+
+Never gonna let you down
+
+Never gonna run around and desert you
+
+Never gonna make you cry
+
+Never gonna say goodbye
+
+Never gonna tell a lie and hurt you
+
+Never gonna give you up
+
+Never gonna let you down
+
+Never gonna run around and desert you
+
+Never gonna make you cry
+
+Never gonna say goodbye
+
+Never gonna tell a lie and hurt you
+
+Never gonna give you up
+
+Never gonna let you down
+
+Never gonna run around and desert you
+
+Never gonna make you cry
+
+Never gonna say goodbye
+
+Never gonna tell a lie and hurt you
+"
+11,5 Million Gmail Usernames and Passwords Leaked,<praw.models.comment_forest.CommentForest object at 0x7fcfb1f77198>,ParanoiaNervosa,0,573,0,False,technology,,1410343633.0,2fzrdt,
+12,How the presidential election of 2016 would look like if only millennials voted,<praw.models.comment_forest.CommentForest object at 0x7fcfb5a51da0>,gytn25,0,369,120,False,dataisbeautiful,,1478689812.0,5c0hoh,
+13,Overworked game developer gets revenge by sneaking this past his boss and the Apple app review team. Wow. - [1:26],<praw.models.comment_forest.CommentForest object at 0x7fcfb54eae48>,bensjammins,1,118,28,False,videos,,1418399970.0,2p35gi,
+14,Today is my Birthday. I turned 25. All I want for my birthday is an upvote.,<praw.models.comment_forest.CommentForest object at 0x7fcfb6daf940>,SmashPig,0,170,0,False,AskReddit,,1300982186.0,gajxc,
+15,Every Man Is Responsible For His Own Soul,<praw.models.comment_forest.CommentForest object at 0x7fcfb6f19d68>,yishan,2,4652,1442,False,blog,,1410050377.0,2foivo,
+16,Went skateboarding in an old Ford plant. Found this on the top floor.,<praw.models.comment_forest.CommentForest object at 0x7fcfaec80be0>,Supermotility,0,311,0,False,creepy,,1419020888.0,2ptja1,
+17,How to throw your life away 101,<praw.models.comment_forest.CommentForest object at 0x7fcfb5382470>,TurqTurtle,0,452,283,False,funny,,1392311667.0,1xtdts,
+18,TIFU by destroying my girlfriend's family :(,<praw.models.comment_forest.CommentForest object at 0x7fcfb631b1d0>,Ambinevolence,2,1434,0,False,tifu,,1415265547.0,2lgk2j,"I've been dating an amazing girl for a bit over a year now. She's pretty chill and progressive, but she comes from a VERY conservative protestant family. Frankly, it's amazing that she isn't disowned - her parents and siblings obviously love her very much, but every time we go to visit they are not shy about voicing their disapproval of her lifestyle choices. Thankfully they're all cordial and the concerns are voiced civilly so there's no raised voices or hurt feelings, but not being part of the family these lectures are quite uncomfortable for me. ESPECIALLY since I'm not spared from her family's criticism.
+
+As you can imagine we don't visit them much. They were kind enough to extend a dinner invitation on Wednesday evening, and since we hadn't seen them in a month or so we took them up on it. Despite the occasional awkward disapproving interjection (which we're both used to by now) things were going well... that is, until I let slip that she and I were thinking about moving in together. At that point her father gave me the coldest gaze I'd ever seen. And he wouldn't stop fucking GLARING at me. From that point on he had no qualms about interrupting me every time I spoke, quoting bible passages to insult me or contradict every single thing I would say in some fashion. I may not have been on exactly the same page as her father before, but we'd gotten along okay nonetheless... it definitely seemed like he was just being rude, obnoxious, and particularly confrontational. Now I'm an extremely even-tempered guy, but he was bagging on me to the extent that I had to excuse myself four goddamn times during dinner because he was pissing me off and I needed to cool down. There were multiple instances where his daughter and wife would even comment on his mean attitude but he seemed to just totally ignore them. This guy obviously intended to goad me.
+
+After dessert my girlfriend and her mother are washing dishes, leaving me and her father alone at the dining room table. After a brief awkward silence I decided to straight-up ask him why he was so upset with me. He revealed that he was wholeheartedly against the idea of his daughter living with an ""unscrupulous heathen"" (his literal words) as that pretty much guaranteed premarital sex. I'd had enough of his shit by this point and decided a dose of reality would straighten him out, but emotion certainly got the best of me and my delivery was incredibly crass. ""If you think it took more than a few weeks to twist your daughter into all kinds of kinky pretzels you can't even imagine and stuff various objects into every hole in her body then you're just being willfully ignorant."" In my defense, I was being honest... she's ridiculously kinky. I still feel bad for being so disrespectful, though.
+
+I have never been punched out of anger before, so when this 64 year old man lunged across the table and struck me I was caught completely off guard. I'm a regular gym-goer and participated in martial arts in the past, but none of that mattered - the next thing I knew I was on my back with this previously-very-collected elderly fellow on top of me in a blood rage. Still dazed from smacking my head on the ground when my chair tipped over, it was all I could do to try and deflect his onslaught of wild blows. It seemed like a fucking eternity before his wife and daughter pulled him off me. I stood up and could feel the sting of blood dripping into my eye. I could taste it in my mouth. I was still dizzy and disoriented but it was obvious that I'd received some pretty solid blows. While I was slightly embarrassed that someone almost twice my age handed me my ass, I nevertheless felt like I won. Like I got him to snap even though he'd been working on me for hours.
+
+My girlfriend ushered me into the bathroom and began to gingerly tend my wounds. Her mother and father were hollering back and forth incomprehensibly in the dining room downstairs; when I heard them say her name I assured her I was fine on my own and urged her to deal with her folks. More incomprehensible yelling ensued, though my girlfriend's voice now joined the chorus. Around the time I'd managed to staunch the bleeding from my eyebrow she returned with my coat and said simply, ""We're leaving."" She was angrier than I'd ever seen her yet managed to remain collected. Normally when we'd leave her parents' house there were fond farewells... warm handshakes, hugs, wishes for prosperity, and blessings abound. Not this time, though. This time there was only her mother crying alone at the dinner table; we didn't even stop to say good-bye. Her father was nowhere to be found. Nothing but silence while we got into the car and left the driveway. A few miles down the road I noticed tears in my girlfriend's eyes. I wanted to be there for her, to comfort her in some way, but I just didn't know how. ""Do you want to talk about it?"" I asked, feeling stupid that I couldn't come up with something more suave to break the silence. ""Not right now"" she said, her voice strained against the flood of emotion. I put one of my hands in hers and squeezed ever so slightly, letting her know without words that I was there for her when she was ready. She squeezed back, refusing to break down sobbing even as large, heavy tears rolled down her face. We rode the rest of the way without saying anything.
+
+**TL;DR**: *SO's dad intentionally pushes my buttons HARD. I tell him I thoroughly fucked his daughter. He physically attacks me. Everyone loses.*
+
+
+
+EDIT: minor editing; mostly punctuation.
+
+EDIT 2: I wonder if the ~~person who's~~ people who are going through and down-voting all of my comments (even in other subs) ~~is~~ are the same ~~person~~ people who did the same thing in my last TIFU thread.
+
+EDIT 3: Thanks for the gold, I'd imagine it's pissing off the downvote brigade. I'll be sure to pay it forward.  <3"
+19,"my friend looks just like the ""Frozen"" cutout at Target!",<praw.models.comment_forest.CommentForest object at 0x7fcfb692ceb8>,hotcreamysex,0,370,166,False,funny,,1395791343.0,21da50,
+20,"reddit changes: individual up/down vote counts no longer visible, ""% like it"" closer to reality, major improvements to ""controversial"" sorting",<praw.models.comment_forest.CommentForest object at 0x7fcfb87d6d68>,Deimorz,3,14170,0,False,announcements,,1403120379.0,28hjga,"""Who would downvote this?"" It's a common comment on reddit, and is fairly often followed up by someone explaining that reddit ""fuzzes"" the votes on everything by adding fake votes to posts in order to make it more difficult for bots to determine if their votes are having any effect or not. While it's always been a necessary part of our anti-cheating measures, there have also been a lot of negative effects of making the specific up/down counts visible, so we've decided to remove them from public view.
+
+The ""false negativity"" effect from fake downvotes is especially exaggerated on very popular posts. It's been observed by quite a few people that every post near the top of the frontpage or /r/all seems to drift towards showing ""55% like it"" due to the vote-fuzzing, which gives the false impression of reddit being an extremely negative site. As part of hiding the specific up/down numbers, we've also decided to start showing much more accurate percentages here, and at the time of me writing this, the top post on the front page has gone from showing ""57% like it"" to ""96% like it"", which is much closer to reality.
+
+(Edit: since people seem confused, the ""% like it"" is only on *submissions*, as it always has been.)
+
+As one other change to go along with this, /u/umbrae recently rolled out a much improved version of the ""controversial"" sorting method. You should see the new algorithm in effect in threads and sorts within the past week. Older sorts (like ""all time"") may be out of date while we work to update old data. Many of you are probably accustomed to ignoring that sorting method since the previous version was almost completely useless, but please give the new version another shot. It's available for use with submissions as a tab (next to ""new"", ""hot"", ""top""), and in the ""sorted by"" dropdown on comments pages as well.
+
+This change may also have some unexpected side-effects on third-party extensions/apps/etc. that display or otherwise use the specific up/down numbers. We've tried to take various precautions to make the transition smoother, but please let us know if you notice anything going horribly wrong due to it.
+
+I realize that this probably feels like a very major change to the site to many of you, but since the data was actually misleading (or outright false in many cases), the usefulness of being able to see it was actually mostly an illusion. Please give it a chance for a few days and see if things ""feel"" better without being able to see the specific up/down counts."
+21,"I'm Pieter Hintjens, and I'm here to discuss psychopaths and other stuff, AMA!",<praw.models.comment_forest.CommentForest object at 0x7fcfb196f0b8>,pieterh,0,767,0,False,IAmA,,1459016298.0,4c27ss,"**My short bio:** I'm a programmer and author of a few different books. My last book, [The Psychopath Code](http://thepsychopathcode.com), explains psychopaths. I've tried to keep it pragmatic and clean: what makes a person a psychopath, how this works, and how to deal with it (for the rest of us). The book is a handbook, not a medical text. Oh, and I just [rage-quit Twitter](http://hintjens.com/blog:114).
+
+OK, thanks for the questions, it's been a fun many hours. For those who hate me for writing the book, shrug, have a nice day anyhow!
+
+**My Proof:** http://hintjens.com/ (with link back to this IAmA)"
+22,TIFU by having Taco Bell with my Girlfriend.,<praw.models.comment_forest.CommentForest object at 0x7fcfb781a2b0>,,0,418,0,False,tifu,,1407707004.0,2d6fit,"First I want to start off by saying ""Fuck you Taco Bell!""
+
+Now we can get to the story. 
+
+So this happened last night as I was sitting at home with my Girlfriend of a year. A comercial for Taco Bells new cheesy burrito thing came on. My girlfriend has some serious munchies because she wanted to go get one really badly. Being an amazing boyfriend I surprise her by taking her there later that night. We go and pick up 3 of them and started heading back to my place. Then I get the romantic idea to take her to the local lake to look at the stars while we eat. Everything was going amazing, it was nice and cool outside, the stars were out and bright. Then she asks for some hot sauce to go with her burrito. As I'm grabbing for it I realize that this was the same exact place we met about a year ago at a college party. I give her the packet and then reach for one for me. The next thing I hear is a lound scream and then ""Yes, yes. Oh god yes."" I turn around to see her in tears and smiling at me.  I'm fucking confused as hell at this point. Then she says ""Of course I will marry you!"" 
+
+Ends up I had given her [this]( http://imgur.com/on3S4ch) hot sauce packet. She had never seen one that said this before, so she thought I had gotten them to write it on there for her. It was a very awkward rest of the night...."
+23,"The state of the subreddit, and how we’re going to tackle the current status of r/SimCity",<praw.models.comment_forest.CommentForest object at 0x7fcfb65cd6a0>,InternetExplorer8,0,620,1,False,SimCity,,1363545293.0,1ah51f,"As many of you can probably tell, this subreddit has very quickly accelerated to a huge circlejerk representing only hate and disrespect towards EA, Maxis, SimCity, and even just some of the users in this subreddit – which is certainly not what a strategy game subreddit should be about. While there are many legitimate reasons for us to be angry, upset, and for some of us just plain pissed off, we need to keep in mind both [Reddiquette](http://www.reddit.com/wiki/reddiquette) and some general respect for not only the opinions of others, but for those who are just doing their job.
+
+We should be focusing more on constructive feedback, general ideas, and discussion. Having the constant reposts of bashing, inappropriate and disrespectful posts and titles, and just complete disregard for any sort of respect has quickly turned this subreddit into something where [not only the developers](https://twitter.com/andrewwillmott/status/311950660964859905), but just general users have been pushed away from. Users who have posted legitimate questions about concerns, general fixes, or just some ideas for towns or actual discussion have quickly been buried in favor of posts which just follow the general trend of bashing. While this may be okay in other subreddits, I feel that this is not the kind of atmosphere we want in r/SimCity.
+
+ Existing posts will not be removed based on this material, but newer posts which do not provide any sort of constructive feedback or general discussion towards SimCity (including excess foul language, abuse towards others, and personal attacks aimed at the team or specific people) has the potential to be removed by me or the other moderators on the team.
+
+* Memes will be removed
+* Only constructive posts are allowed: Posts that clearly define the problem ~~and give possible solutions~~. We're not looking for people to fix the game for EA or Maxis, we're looking for respectful reporting methods. Ex: ""PSA: The population feature is broken. It's given a false read to the user which can negatively impact gameplay"" is much more efficient than ""Fuck this game, everything is lying to us this piece of crap"" Posts that are pure bashing or don't offer any sensible advice will be deleted.
+* Only posts that are directly related to the game, thus excluding general EA bashing, Origin bashing and other things that only attract hate.
+* **Absolutely NO personal Information.** This is not only a rule of the subreddit, but of [Reddit itself](http://www.reddit.com/rules).
+
+(These rules are holding here for the time being until we can get the subreddit back on track. These points and the general works of the subreddit will be placed up for public discussion where we can all vote and rule out things that we want/don't want to see. Until then, please follow these posting guidelines.)
+
+We will soon be updating the sidebar with some more posting guidelines to help narrow down what we are looking to filter out. While we understand anger due to the new game and behavior that we have received from EA, Origin, and SimCity, we need to understand there are those who are just doing their job and really have no control over the outcome of your conversation with them (obviously this is not the case for all). While posting here, we are going to request some respect from you as a Subreddit. There is plenty of content offering excellent feedback and constructive criticism towards the game – which is exactly what we want.  
+
+So we’ve all had our fun, but it’s time we get SimCity back on track. Many users have been reporting abusive posts and messaging the mods about questionable content - It’s important to understand that we take every report and message and read through it thoroughly. Thanks for taking the time to read through and feel free to comment below. "
+24,"Came home from work to this desktop background, and promptly shat a brick.",<praw.models.comment_forest.CommentForest object at 0x7fcfb3cd88d0>,Enigma037,0,271,56,False,gaming,,1399751735.0,2589a1,
+25,"How Apple updates slow your old iPhone down, pushing you towards a new iPhone.",<praw.models.comment_forest.CommentForest object at 0x7fcfb2757438>,Dr__Nick,0,735,298,False,technology,,1413280285.0,2j7bpl,
+26,ISIS orders all women and girls in Mosul to undergo Female Genital Mutilation,<praw.models.comment_forest.CommentForest object at 0x7fcfb4a24f98>,rahulthewall,0,1114,343,False,news,,1406205404.0,2bl8d7,
+27,TIL I'm a racist,<praw.models.comment_forest.CommentForest object at 0x7fcfb4a117b8>,jaynap1,0,1711,598,False,funny,,1394944209.0,20j5iy,
+28,"Nintendo, always ahead of the game.",<praw.models.comment_forest.CommentForest object at 0x7fcfb5c51048>,Baconandporn,0,1806,531,False,gaming,,1397484484.0,23063d,
+29,TIFU by not paying enough attention,<praw.models.comment_forest.CommentForest object at 0x7fcfb5de3dd8>,disappointed-guy,0,212,30,False,tifu,,1470569974.0,4wkj8b,"Did not happen today, but a couple of weeks ago.
+
+My wife and I have just had our third wonderful child. Not wanting a fourth, we agree I should get a vasectomy. No big deal: just a little snip and removes all the worries with contraception.
+
+My doctor didn't seem to understand why I wanted it, but I quickly dismissed him, insisting I had thought hard about what I wanted and was not going to change my mind. Same with the consultant. I sign the papers and the operation is booked.
+
+A few weeks later, after I wake up from the operation, everything feels fine but numb. Consultant gives me some strong warnings about being careful with my penis over the next fortnight, but I don't take it too seriously.
+
+After my wife has driven me home, we take off my trousers to take a look at the scrotum scar. The head of my penis is wrapped in a soft bandage. She removes it and screams. I look down. It is covered in blood and we can't find my foreskin. Scrotum seems normal.
+
+After we calm down, wife fetches my papers. Turns out I had booked myself in for a circumcision, not a vasectomy. Not their fault: my wife remembered me getting the words confused a few times over the past weeks as well.
+
+Recovery was unpleasant. For a week, woke up every few hours in the middle of the night, somewhere between screaming and crying because the stitches were being stretched. Could not walk properly. Penis looks like someone else's. Two weeks after the operation, I am only just getting anywhere near back to normal. My boss is not impressed either.
+
+And I need to go back to pay for the vasectomy I wanted in the first place.
+
+Tl;DR: Meant to get a vasectomy, got two words confused, didn't listen to warnings, lost my foreskin."
+30,Shots Fired.,<praw.models.comment_forest.CommentForest object at 0x7fcfb5df5320>,mafibasheth,0,277,0,False,gaming,,1402366458.0,27r35p,
+31,My girlfriend's dad was given just one month to live exactly 4 weeks ago today. Reddit show him your support for overcoming the odds and keeping calm even in the wake (no pun intended) of bowel cancer!,<praw.models.comment_forest.CommentForest object at 0x7fcfb798ada0>,kingsfan2005,0,102,211,False,pics,,1406077208.0,2bg8qr,
+32,Ken Jennings (who won 73 straight games of Jeopardy) gives a reasonable response as to why he's a mormon on /r/exmormon,<praw.models.comment_forest.CommentForest object at 0x7fcfb275e208>,timdual,0,1032,280,False,bestof,,1398303125.0,23tkzo,
+33,Finally.,<praw.models.comment_forest.CommentForest object at 0x7fcfb7738518>,,0,348,631,False,funny,,1401810735.0,277k8m,
+34,IamA Porn Star Tanya Tate! AMA!,<praw.models.comment_forest.CommentForest object at 0x7fcfb7992160>,TanyaTatexxx,0,1430,239,False,IAmA,,1452790424.0,40yeyi,"My short bio: Ten- time MILF of the Year award winner Tanya Tate launched a thrilling adult entertainment career in late 2008 when the former office worker decided on a whim to spice up her life. Tanya quickly became a popular performer in the MILF genre. When the Liverpool born beauty starred in the controversial Tanya Tate’s Sex Tour of Ireland, she found herself spotlighted in the headlines of the mainstream press. A sex scene that featured Tanya and an Irish pro-athlete became tabloid fodder across England and Ireland. Capitalizing on her skyrocketing career, Tanya ventured to the adult entertainment capital of the world; Los Angeles. There, Tanya began filming for top tier adult companies such as Digital Playground, Vivid, Wicked Pictures and Brazzers. Tanya has also been an FHM magazine cover model and seen in the theatrically released documentary, Aroused, from acclaimed photographer Deborah Anderson. She was seen across the UK in Channel 4’s nationally broadcast reality program Date My Pornstar. After firmly establishing herself as an in-demand performer, Tanya made the move to the director’s chair, specializing in lesbian-themed erotica for Filly Films. 
+
+**My Proof:** http://tanyatate.com
+http://www.hotmovies.com/porn-star/111894/Tanya-Tate.html
+www.twitter.com/TanyaTate
+
+This IAmA will be live between 12 pm EST and 2 pm EST
+
+NOTE:  This IAmA is being typed by Janie Mackenzie, publicist for HotMovies.com
+www.twitter.com/janiemackxxx
+
+Logging off at 2:00 EST - thank you all for great questions!"
+35,Wave of Violence in Israel and the Palestinian Territories,<praw.models.comment_forest.CommentForest object at 0x7fcfb77383c8>,WorldNewsMods,0,1352,0,False,worldnews,,1445909971.0,3qd2ek,"There has been a recent wave of violence in Israel and the Palestinian territories.  Treating every stabbing incident as major world news has the drawback of the topic dominating the front page, drowning out other stories and spreading out discussion across several threads. Trying to select major incidents over minor ones is bound to lead to inconsistent decisions with such rapidly developing stories. Hence we believe a collective thread for all violent incidents is the best approach.  Users are encouraged to submit posts conveying recent developments in the comments section of this sticky thread.  Moderators will periodically review the comments and update this post with recent events.  **Top level comments must be links to news.**  All other submissions about these incidents will be removed.  
+
+As a reminder, please be mindful of the [subreddit rules](https://www.reddit.com/r/worldnews/wiki/rules) when posting.  We'd like to remind you that calling other users shills, apologists, racists, islamophobes or antisemites are all considered personal attacks and thus against the rules.  Please discuss the issues and the comments made, not the persons making them.  If you find comments which violate our rules, you’re encouraged to use the report button or alert the mods via modmail so that we can investigate.
+
+Thank you,
+
+The World News Team.  
+
+***
+***
+
+**Resources**
+
+**[Previous Thread](https://www.reddit.com/r/worldnews/comments/3pwi22/wave_of_violence_in_israel_and_the_palestinian/)** | **[First Thread](https://www.reddit.com/r/worldnews/comments/3pjow7/wave_of_violence_in_israel_and_palestine/)** 
+
+**[IDF Live Blog](https://www.idfblog.com/blog/2015/10/19/live-updates-terror-strikes-israel/)** | **[IDF Twitter](https://twitter.com/IDFSpokesperson)** ||| **[PMG Daily Reports](http://www.nad-plo.org/dailyreports.php)** | **[Ma'an News Twitter](https://twitter.com/MaanNewsAgency?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)**
+
+***
+
+**Recent Events**
+
+*10/26/15 Events*
+
+* [Terror attack against IDF soldiers thwarted in Hebron](http://www.jpost.com/Arab-Israeli-Conflict/Initial-Report-Terrorist-shot-and-killed-during-stabbing-attack-at-Cave-of-Patriarchs-430084)
+
+* [Rocket from Gaza explodes in Israel near border](http://www.jpost.com/Arab-Israeli-Conflict/Rocket-from-Gaza-explodes-near-Israel-border-430102)
+
+* [Israel Air Force strikes Gaza targets following rocket attack on South](http://www.jpost.com/Arab-Israeli-Conflict/Israeli-Air-Force-strikes-Gaza-targets-following-rocket-attack-in-the-South-430123)
+
+* [IDF soldier seriously wounded in stabbing attack near Kiryat Arba](http://www.jpost.com/Arab-Israeli-Conflict/Terror-stabbing-reported-near-Kiryat-Arba-430071)
+
+* *PDF Warning:* [Palestinian Monitoring Group Daily Report](http://www.nad-plo.org/userfiles/file/pmg-reports/dailyr/PMG.Daily.Sitrep.26.10.15.pdf) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3qd2ek/wave_of_violence_in_israel_and_the_palestinian/cwehxt1)**)
+
+*10/27/15 Events*
+
+* [Attack by 2 Palestinian teens foiled in Jerusalem, police say](http://www.timesofisrael.com/attack-by-palestinian-teens-foiled-in-jerusalem-police-say/) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3qd2ek/wave_of_violence_in_israel_and_the_palestinian/cwel5rn)**)
+
+* [Palestinians stab IDF soldier at Gush Etzion junction](http://www.jpost.com/Arab-Israeli-Conflict/Israeli-stabbed-moderately-wounded-in-Gush-Etzion-attack-430203) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3qd2ek/wave_of_violence_in_israel_and_the_palestinian/cweqqvu)**)
+
+* [By the numbers: 1,703 terror attacks since the start of 2015](http://www.israelnationalnews.com/News/News.aspx/202514#.VjAAGrerQgs)
+
+* *PDF Warning:* [Palestinian Monitoring Group Daily Report](http://www.nad-plo.org/userfiles/file/pmg-reports/dailyr/PMG.Daily.Sitrep.27.10.15.pdf) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3qd2ek/wave_of_violence_in_israel_and_the_palestinian/cwfui81)**)
+
+*10/28/15 Events*
+
+* [Times of Israel 10/28/15 Liveblog](http://www.timesofisrael.com/liveblog-october-28-2015/)
+
+* [Two attempted stabbing attacks in West Bank, one Israeli hurt](http://www.jpost.com/Arab-Israeli-Conflict/Palestinian-terrorist-shot-while-attempting-to-stab-soldier-in-Hebron-430310) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3qd2ek/wave_of_violence_in_israel_and_the_palestinian/cwfxgi7)**)
+
+* [Arab-Israelis arrested for hurling firebombs on Highway 6](http://www.israelnationalnews.com/News/News.aspx/202579#.VjERnberQgs)
+
+*10/29/15 Events*
+
+* [IDF soldier wounded in Hebron stabbing attack](http://www.ynetnews.com/articles/0,7340,L-4717937,00.html)
+
+* [IDF to impose separation of Jews, Palestinians in Gush Etzion](http://www.ynetnews.com/articles/0,7340,L-4718235,00.html)  (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3qd2ek/wave_of_violence_in_israel_and_the_palestinian/cwh89wy)**)
+
+*10/30/15 Events*
+
+* [Israeli soldiers tell Palestinians: ""We will gas you until you die""](http://www.maannews.com/Content.aspx?ID=768559&utm_medium=twitter&utm_source=twitterfeed) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3qd2ek/wave_of_violence_in_israel_and_the_palestinian/cwia3nl)**)
+
+* [Border cop suspended for threatening to ‘gas’ Palestinians](http://www.timesofisrael.com/border-cop-suspended-for-threatening-to-gas-palestinians/) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3qd2ek/wave_of_violence_in_israel_and_the_palestinian/cwivq2v)**)
+
+* [Two yeshiva students were injured during a terrorist attack near the light rail station on Jerusalem's Ammunition Hill Friday afternoon, one of them hit by an errant police bullet](http://www.jpost.com/Arab-Israeli-Conflict/Initial-Report-Shoots-fired-near-Tapuah-Junction-430560)
+
+* [IDF to return bodies of five Palestinians killed during stabbing attacks.](http://www.jpost.com/Breaking-News/IDF-to-return-bodies-of-five-Palestinians-killed-during-stabbing-attacks-430570)
+
+* [Palestinian baby dies at home from inhaling tear gas fired by IDF](http://www.timesofisrael.com/pa-palestinian-baby-dies-from-inhaling-tear-gas-fired-by-idf/) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3qd2ek/wave_of_violence_in_israel_and_the_palestinian/cwjfcz4)**)
+
+* [Israeli Soldiers Assault Reporters in Ramallah](https://uk.news.yahoo.com/video/israeli-soldiers-assault-reporters-ramallah-191548772.html)
+
+*10/31/15 Events*
+
+* [PA buries 5 Palestinians killed carrying out attacks on Israelis](http://www.timesofisrael.com/pa-buries-5-palestinians-killed-carrying-out-attacks-on-israelis/)
+
+
+*11/01/15 Events*
+
+* [3 Border Police wounded, Palestinian killed in 2 attacks near Hebron](http://www.jpost.com/Arab-Israeli-Conflict/Initial-Report-3-Israelis-wounded-in-car-ramming-attack-north-of-Kiryat-Arba-431709)
+
+*11/02/15 Events*
+
+* [Jerusalem tour guide assaulted with bottle outside Jaffa Gate](http://www.jpost.com/Arab-Israeli-Conflict/WATCH-Jerusalem-tour-guide-struck-assaulted-with-bottle-outside-Jaffa-Gate-431789)
+
+* [80-year-old woman among 3 stabbed in Rishon Lezion terror attack](http://www.timesofisrael.com/3-hurt-2-seriously-in-rishon-lezion-stabbing-attack/) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3qd2ek/wave_of_violence_in_israel_and_the_palestinian/cwlmo1s)**)
+
+* [Terrorist shot after stabbing elderly man in Netanya](http://www.jpost.com/Arab-Israeli-Conflict/Breaking-Police-shoot-suspect-after-man-stabbed-and-seriously-wounded-in-Netanya-431813) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3qd2ek/wave_of_violence_in_israel_and_the_palestinian/cwlvlas)**)
+
+* [In recent speech to UN GA, Abbas referred to Israel's ""67-year occupation"" - referring not to the West Bank, but to the founding of the State of Israel in 1948.](http://www.israelnationalnews.com/News/News.aspx/202816#.Vjkh7pfaZQt)  (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3qd2ek/wave_of_violence_in_israel_and_the_palestinian/cwlxpts)**)
+
+*11/03/15 Events*
+
+* [Israel's Top Generals Split With Benjamin Netanyahu on Roots of Terror Wave](https://www.reddit.com/r/worldnews/comments/3qd2ek/wave_of_violence_in_israel_and_the_palestinian/cwn1x4s) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3qd2ek/wave_of_violence_in_israel_and_the_palestinian/cwn1x4s)**)
+
+*11/04/15 Events*
+
+* [Palestinian Monitoring Group Daily Report (**470KB PDF**)](http://www.nad-plo.org/userfiles/file/pmg-reports/dailyr/PMG.Daily.Sitrep.03.11.15.pdf) (Discussion Comment **[here](https://www.reddit.com/r/worldnews/comments/3qd2ek/wave_of_violence_in_israel_and_the_palestinian/cwo3fwt)**)
+
+* [Suspected car ramming terrorist attack in West Bank near Hebron](http://www.jpost.com/Arab-Israeli-Conflict/Initial-report-Suspected-Car-ramming-terrorist-attack-in-West-Bank-near-Hebron-432024) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3qd2ek/wave_of_violence_in_israel_and_the_palestinian/cwo4tyq)**)
+
+* [IDF: Investigation shows no criminal wrongdoing in death of Hadeel al-Hashlamun](http://www.jpost.com/Arab-Israeli-Conflict/IDF-Investigation-shows-no-criminal-wrongdoing-in-death-of-Hadeel-al-Hashlamun-18-of-Hebron-431766) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3qd2ek/wave_of_violence_in_israel_and_the_palestinian/cwolb75)**) 
+
+* [Israeli police shoot, kill 17-year-old Palestinian in Hebron](http://www.maannews.com/Content.aspx?id=768468) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3qd2ek/wave_of_violence_in_israel_and_the_palestinian/cwoljrw)**)
+
+* [High Court delays demolition of West Bank synagogue following police request](http://www.jpost.com/Arab-Israeli-Conflict/Vandals-deface-Supreme-Court-building-with-graffiti-against-Givat-Zeev-synagogue-demolition-431993) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3qd2ek/wave_of_violence_in_israel_and_the_palestinian/cwomg3j)**)
+
+*11/05/15 Events*
+
+* [Palestinians, Civil Rights Lawyers Accuse Jerusalem Police of Wanton Shootings](http://www.haaretz.com/israel-news/.premium-1.684272)
+
+*11/06/15 Events*
+
+* [Car ramming attack and stabbing in West Bank](http://www.jpost.com/Arab-Israeli-Conflict/Initial-Report-Terrorist-attempts-to-run-over-soldier-in-attack-near-Hebron-432259)
+
+* [Israeli forces shoot dead 72-year-old Palestinian woman at a petrol station in the West Bank. The woman had driven her car directly at soldiers Israeli military says](http://www.aljazeera.com/news/2015/11/israeli-forces-shoot-dead-72-year-palestinian-woman-151106155250695.html) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3qd2ek/wave_of_violence_in_israel_and_the_palestinian/cwr7kh9)**)
+
+* [Palestinian stabber claims credit for attack 'in defense of al-Aksa' in video recorded prior to the attack](http://www.jpost.com/Arab-Israeli-Conflict/VIDEO-Palestinian-stabber-claims-credit-for-attack-in-defense-of-al-Aksa-432273)
+
+* [40-year-old Arab Israeli woman spied on Haifa installations, train station, and court on behalf of Gazan jihadist group, Shin Bet says.](http://www.jpost.com/Arab-Israeli-Conflict/Israeli-Arab-woman-sent-by-Gazan-terror-group-to-spy-on-Israel-carry-out-attacks-432164)
+
+* [Three Israelis wounded, two seriously, in two Hebron area shooting attacks](http://www.jpost.com/Arab-Israeli-Conflict/Breaking-News-Two-Israelis-wounded-in-Hebron-shooting-attack-432266)"
+36,"Soon to become a minority in the US, whites express declining support for diversity, psychology study finds",<praw.models.comment_forest.CommentForest object at 0x7fcfae700080>,Jewish_NeoCon2,0,388,33,False,science,,1412512340.0,2icpry,
+37,Tried scanning my face in NBA2k15... Never again.,<praw.models.comment_forest.CommentForest object at 0x7fcfb6401ac8>,mayobf,0,103,60,False,gaming,,1454262209.0,43jzuy,
+38,[NSFW] Female streaker runs onto soccer pitch and scores an incredible goal,<praw.models.comment_forest.CommentForest object at 0x7fcfb7068fd0>,pepito420,0,254,227,False,videos,,1398105396.0,23lzad,
+39,"Eurasian Eagle-owls are one of the few owls to soar on thermals during the day, often resulting in them getting confused for hawks! [OC]",<praw.models.comment_forest.CommentForest object at 0x7fcfb7041198>,UnidanX,0,437,0,False,Awwducational,,1406777806.0,2c7hrw,
+40,/u/brettybluevein explains the problem with making excuses for going slightly over limits,<praw.models.comment_forest.CommentForest object at 0x7fcfb77380f0>,Somesortofthing,0,178,0,False,bestof,,1432438721.0,3723ma,
+41,Anna Kendrick.,<praw.models.comment_forest.CommentForest object at 0x7fcfb5f877f0>,KAOS1212,0,296,647,False,funny,,1393548809.0,1z4ysb,
+42,Life in Japan,<praw.models.comment_forest.CommentForest object at 0x7fcfb605cf28>,,0,89,0,False,pics,,1421768699.0,2t24f5,
+43,"I left my phone in the bathroom, came back to get it and this pic was on it.WTF",<praw.models.comment_forest.CommentForest object at 0x7fcfb5a40278>,tumey23,0,325,787,False,funny,,1397139645.0,22p0cr,
+44,Her baby sister is having heart surgery tomorrow. Please throw up an extra one tonight to whoever you pray to.,<praw.models.comment_forest.CommentForest object at 0x7fcfb10f3f28>,jillenejillene,0,513,520,False,pics,,1394772963.0,20dq7d,
+45,We apologize,<praw.models.comment_forest.CommentForest object at 0x7fcfaee12048>,ekjp,1,2511,0,False,modnews,,1436204078.0,3cbnuu,"We screwed up. Not just on July 2, but also over the past several years. We haven’t communicated well, and we have surprised you with big changes. We have apologized and made promises to you, the moderators and the community, over many years, but time and again, we haven’t delivered on them. When you’ve had feedback or requests, we have often failed to provide concrete results. The mods and the community have lost trust in me and in us, the administrators of reddit.
+
+Today, we acknowledge this long history of mistakes. We are grateful for all you do for reddit, and the buck stops with me. We are taking three concrete steps:
+
+**Tools**: We will improve tools, not just promise improvements, building on work already underway.  Recently, u/deimorz has been primarily developing tools for reddit that are largely invisible, such as anti-spam and integrating Automoderator. Effective immediately, he will be shifting to work full-time on the issues the moderators have raised. In addition, many mods are familiar with u/weffey’s work, as she previously asked for feedback on modmail and other features. She will use your past and future input to improve mod tools. Together they will be working as a team with you, the moderators, on what tools to build and then delivering them.
+
+**Communication**: u/krispykrackers is trying out the new role of Moderator Advocate. She will be the contact for moderators with reddit. We need to figure out how to communicate better with them, and u/krispykrackers will work with you to figure out the best way to talk more often.
+
+**Search**: The new version of search we rolled out last week broke functionality of both built-in and third-party moderation tools you rely upon. You need an easy way to get back to the old version of search, so we have provided that option. Learn how to set your preferences to default to the old version of search [here](https://www.reddit.com/wiki/search#wiki_enabling_legacy_search).
+
+
+I know these are just words, and it may be hard for you to believe us. I don't have all the answers, and it will take time for us to deliver concrete results. I mean it when I say we screwed up, and we want to have a meaningful ongoing discussion.
+
+
+Thank you for listening. Please share feedback here. Our team is ready to respond to comments."
+46,[NSFW] Daughter rides mom while son motorboats,<praw.models.comment_forest.CommentForest object at 0x7fcfb10bc048>,Kieji,0,815,747,False,videos,,1391481050.0,1wy7zp,
+47,Crysis came out 8 years ago,<praw.models.comment_forest.CommentForest object at 0x7fcfb7912748>,kencrema,0,863,454,False,gaming,,1390191264.0,1vn9od,
+48,Leonardo DiCaprio wins Best Actor. 2016 Academy Awards.,<praw.models.comment_forest.CommentForest object at 0x7fcfaeba99b0>,GoinFerARipEh,0,105,173,False,pics,,1456721641.0,488g9g,
+49,Someone does the ALSA ice bucket challenge and reveals a scam,<praw.models.comment_forest.CommentForest object at 0x7fcfb10c1c18>,ecir2002,0,579,513,False,videos,,1408482475.0,2e0qk0,
+50,According to this thing.,<praw.models.comment_forest.CommentForest object at 0x7fcfb6e4fcc0>,TehRawrz,0,597,746,False,funny,,1396978049.0,22j5tv,
+51,We’re fighting for marriage equality in Utah and around the world. Will you help us?,<praw.models.comment_forest.CommentForest object at 0x7fcfb482f780>,maxgprime,0,8617,1100,False,blog,,1399309953.0,24seva,
+52,Hi. My name is Skrillex. AMA,<praw.models.comment_forest.CommentForest object at 0x7fcfb5c2e860>,MyN4meIsSkrillex,0,8779,759,False,Music,Verified,1394218350.0,1ztuxf,"
+http://skrillex.com 
+
+Starting now! - 1:54pm PST
+
+PROOF: https://upload.facebook.com/skrillex/photos/a.135580806494143.42941.119702488081975/684963344889217/?type=1&stream_ref=10
+
+
+
+
+Hey guys... So much fun answering some of your questions.. wish I had more time, wish i could type faster.. but yeah... was fuckn fun! big ups to all of you.. Thanks for the support... It was dope getting some good feedback. As an artist (im sure some of you producers can agree with this) you have to go with your gut,. you have the try new things.. you have to fuck up sometimes! Thats one of the best parts about trying something new... Sometimes it works, sometimes it does. But you ALWAYS learn. My career is still young.. i've still got so many records in me and so many different outlets and ways I want to create music. But i think my biggest inspiration for when I make music as skrillex, is always thinking about playing live, because I like playing shows and meeting cool ppl like you... hope to see ya'll this summer! BIG UP!"
+53,Up the butt?,<praw.models.comment_forest.CommentForest object at 0x7fcfb250dac8>,Illfixt,0,586,809,False,gifs,,1400930143.0,26db0b,
+54,"I know I'm a big girl, I like food. But I refuse to be a glued-to-the-couch big girl.",<praw.models.comment_forest.CommentForest object at 0x7fcfb5c01470>,LovelySweet1789,0,945,658,False,pics,,1390089768.0,1vk3h4,
+55,WikiLeaks outs gay people in Saudi Arabia in ‘reckless’ mass data dump,<praw.models.comment_forest.CommentForest object at 0x7fcfb69b3f28>,xbettel,0,725,435,False,worldnews,,1471957694.0,4z6d0n,
+56,"Reddit, my dad died yesterday. I am absolutely destroyed, but this video of him hula hooping on Wii Sports is helping me to stay sane as I go through the funeral preparations.",<praw.models.comment_forest.CommentForest object at 0x7fcfb20abe80>,thingsthingsthings,0,919,784,False,videos,,1397014009.0,22kt6h,
+57,This really is becoming an epidemic. Now there teaming up.,<praw.models.comment_forest.CommentForest object at 0x7fcfb6e5d390>,Notasandwhichyet,0,109,134,False,funny,,1424490422.0,2wmfoy,
+58,Tonight is the big night! Wish me luck reddit!,<praw.models.comment_forest.CommentForest object at 0x7fcfb5909c50>,wangtown_usa,0,442,420,False,pics,,1408927049.0,2ehk9n,
+59,This kid is my fucking hero,<praw.models.comment_forest.CommentForest object at 0x7fcfb5c01cc0>,Brian_Sun_,0,483,2334,False,funny,,1437155207.0,3dnbts,
+60,Freckled nose,<praw.models.comment_forest.CommentForest object at 0x7fcfb384cd68>,,1,181,319,False,pics,,1459165255.0,4c9smm,
+61,My brother and I got in a fight before he left for basic training a couple months ago...This is the first thing I've received from him.,<praw.models.comment_forest.CommentForest object at 0x7fcfaf297f60>,Rhyno001,0,421,688,False,funny,,1396567599.0,225any,
+62,Friends that build docks together stay together,<praw.models.comment_forest.CommentForest object at 0x7fcfb27266d8>,,0,268,528,False,pics,,1438338093.0,3f9vkr,
+63,THE H3H3PRODUCTIONS RANT - Leafy,<praw.models.comment_forest.CommentForest object at 0x7fcfb010a9e8>,jdpalmer,0,722,108,False,videos,,1458776289.0,4bp5c1,
+64,Justin Bieber Arrested for Drag Racing / DUI (Miami),<praw.models.comment_forest.CommentForest object at 0x7fcfb23b3128>,S_E_G_A,0,3636,733,False,news,,1390477708.0,1vxp05,
+65,got slapped by my sister for this one.,<praw.models.comment_forest.CommentForest object at 0x7fcfb6e662e8>,iLikeShmellyEggs,0,838,666,False,funny,,1390250765.0,1vp8es,
+66,A 1-minute old elephant,<praw.models.comment_forest.CommentForest object at 0x7fcfaf5b2a90>,Trippze,0,426,839,False,pics,,1403356325.0,28pwm8,
+67,Wave of Violence in Israel and the Palestinian Territories,<praw.models.comment_forest.CommentForest object at 0x7fcfb010ab38>,WorldNewsMods,0,845,0,False,worldnews,,1445605584.0,3pwi22,"There has been a recent wave of violence in Israel and the Palestinian territories.  Treating every stabbing incident as major world news has the drawback of the topic dominating the front page, drowning out other stories and spreading out discussion across several threads. Trying to select major incidents over minor ones is bound to lead to inconsistent decisions with such rapidly developing stories. Hence we believe a collective thread for all violent incidents is the best approach.  Users are encouraged to submit posts conveying recent developments in the comments section of this sticky thread.  Moderators will periodically review the comments and update this post with recent events.  **Top level comments must be links to news.**  All other submissions about these incidents will be removed.  
+
+As a reminder, please be mindful of the [subreddit rules](https://www.reddit.com/r/worldnews/wiki/rules) when posting.  We'd like to remind you that calling other users shills, apologists, racists, islamophobes or antisemites are all considered personal attacks and thus against the rules.  Please discuss the issues and the comments made, not the persons making them.  If you find comments which violate our rules, you’re encouraged to use the report button or alert the mods via modmail so that we can investigate.
+
+Thank you,
+
+The World News Team.  
+
+**Recent Events**
+
+[Previous Thread](https://www.reddit.com/r/worldnews/comments/3pjow7/wave_of_violence_in_israel_and_palestine/)
+
+**[IDF Live Blog](https://www.idfblog.com/blog/2015/10/19/live-updates-terror-strikes-israel/)** | **[IDF Twitter](https://twitter.com/IDFSpokesperson)** ||| **[PMG Daily Reports](http://www.nad-plo.org/dailyreports.php)** | **[Ma'an News Twitter](https://twitter.com/MaanNewsAgency?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)**
+
+*10/23/15 1:00PM GMT Update*
+
+* [Times of Israel 10/23/15 Liveblog](http://www.timesofisrael.com/liveblog-october-23-2015/)
+
+* [Jerusalem terror attack thwarted after residents report suspicious man](http://www.jpost.com/Breaking-News/Jerusalem-terror-attack-thwarted-after-residents-report-suspicious-man-429885)
+
+* [B’Tselem video shows soldiers beating Palestinian in storage room outside Ramallah](http://www.jpost.com/Arab-Israeli-Conflict/BTselem-video-shows-soldiers-beating-Palestinian-in-storage-room-outside-Ramallah-429898)
+
+* [Clashes erupt across West Bank after Friday prayers](http://www.ynetnews.com/articles/0,7340,L-4715342,00.html)
+
+* [(Israeli) Supreme Court postpones demolition of terrorists' homes](http://www.ynetnews.com/articles/0,7340,L-4715125,00.html)
+
+*10/23/15 6:00PM GMT Update*
+
+* [Parents, 3 children hurt in West Bank firebombing](http://www.timesofisrael.com/mom-2-daughters-hurt-in-west-bank-firebombing/)
+
+* [East Jerusalem kids planning knife attack arrested](http://www.timesofisrael.com/east-jerusalem-kids-planning-knife-attack-arrested/)
+
+* [PA, Jordan to tell Kerry they want Muslim control over Jewish visits to Temple Mount](http://www.timesofisrael.com/pa-jordan-want-muslim-control-over-jewish-visits-to-temple-mount/)
+
+* [Palestinian carrying a knife arrested this morning in Jerusalem admitted: 'I planned to carry out an attack'](http://www.ynetnews.com/articles/0,7340,L-4715328,00.html)
+
+*10/23/15 8:15PM GMT Update*
+
+* [Israeli-Palestinian clashes persist as diplomats push for peace](http://www.reuters.com/article/2015/10/23/us-israel-palestinians-idUSKCN0SH0QO20151023)
+
+* [WATCH: Jewish extremist attacks Israeli activist with knife](http://www.timesofisrael.com/watch-jewish-extremist-attacks-israeli-activist-with-knife/) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3pwi22/wave_of_violence_in_israel_and_the_palestinian/cwabg22)**)
+
+* [Scores of Palestinians injured in Gaza and West Bank](http://www.aljazeera.com/indepth/inpictures/2015/10/dozens-palestinians-injured-gaza-west-bank-151023122926432.html) (from another ""Day of Rage"")
+
+*10/24/15 4:00AM GMT Update*
+
+* [Palestinian man in Hebron dies from tear gas inhalation during clashes between Palestinian teenagers and Israeli soldiers](http://www.maannews.com/Content.aspx?id=768406) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3pwi22/wave_of_violence_in_israel_and_the_palestinian/cwamzzf)**)
+
+* [Hebrew speaking-ISIS jihadi threatens Israel, Jews worldwide in new video](http://www.jpost.com/Arab-Israeli-Conflict/Hebrew-speaking-ISIS-jihadi-threatens-Israel-Jews-worldwide-in-new-video-429884)
+
+* [Buzzfeed Reporter Attacked by Extremist Jewish Group in Paris](http://gawker.com/buzzfeed-reporter-attacked-by-extremist-jewish-group-in-1738259069) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3pwi22/wave_of_violence_in_israel_and_the_palestinian/cwb3uls)**)
+
+*10/24/15 11:15AM GMT Update*
+
+* [Abbas urges end to clashes with IDF at flashpoint sites](http://www.timesofisrael.com/abbas-reportedly-calls-to-stop-clashes-with-idf-at-flashpoint-sites/)
+
+* [Israel must maintain Temple Mount status quo, Abbas tells Kerry](http://www.timesofisrael.com/israel-must-maintain-temple-mount-status-quo-abbas-tells-kerry/)
+
+* [Palestinian tries to stab Israeli guard in West Bank, is shot dead](http://www.timesofisrael.com/palestinian-tries-to-stab-soldiers-near-jenin-is-shot-dead/)
+
+* [Israeli man claims Palestinian terrorist attempted to stab him near Old City](http://www.jpost.com/Arab-Israeli-Conflict/Israeli-man-says-Palestinian-terrorist-attempted-to-stab-him-near-Old-City-429939)
+
+*10/24/15 3:30PM GMT Update*
+
+* [Palestinian teen clutching screwdriver arrested in south Tel Aviv](http://www.timesofisrael.com/palestinian-teen-clutching-screwdriver-arrested-in-south-tel-aviv/)
+
+* [Kerry: Netanyahu agrees to maintain exclusive Muslim prayer right on Temple Mount](http://www.jpost.com/Middle-East/Kerry-Netanyahu-has-agreed-to-maintain-the-exclusive-Muslim-prayer-right-on-Temple-Mount-429951) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3pwi22/wave_of_violence_in_israel_and_the_palestinian/cwb5hso)**)
+
+*10/24/15 8:30PM GMT Update*
+
+* [Thousands of left-wingers march in anti-government rally in Tel Aviv](http://www.timesofisrael.com/thousands-of-left-wingers-march-in-anti-government-rally-in-tel-aviv/) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3pwi22/wave_of_violence_in_israel_and_the_palestinian/cwbxli9)**)
+
+* [11 months on, rabbi dies of wounds from Jerusalem synagogue massacre](http://www.timesofisrael.com/11-months-on-rabbi-dies-of-wounds-from-jerusalem-synagogue-massacre/) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3pwi22/wave_of_violence_in_israel_and_the_palestinian/cwbge6q)**)
+
+* [Police to make more arrests over brutal attack on Eritrean man](http://www.timesofisrael.com/police-to-make-more-arrests-over-brutal-attack-on-eritrean-man/) 
+
+*10/25/15 3:00PM GMT Update*
+
+* [Times of Israel 10/25/15 Liveblog](http://www.timesofisrael.com/liveblog-october-25-2015/)
+
+* [Terrorist shot dead after attempting to stab police at Cave of the Patriarchs](http://www.jpost.com/Arab-Israeli-Conflict/Attempted-terror-attack-in-Hebron-430007) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3pwi22/wave_of_violence_in_israel_and_the_palestinian/cwc4eru)**)
+
+* [Israeli moderately wounded in Gush Etzion stabbing attack](http://www.ynetnews.com/articles/0,7340,L-4715851,00.html) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3pwi22/wave_of_violence_in_israel_and_the_palestinian/cwc10jk)**)
+
+* [Abbas demands 'incentives' to stem Arab terror wave](http://www.israelnationalnews.com/News/News.aspx/202384#.VizsmrerQgs) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3pwi22/wave_of_violence_in_israel_and_the_palestinian/cwc2pm2)**)
+
+* [Hamas helped plan deadly Be'er Sheva attack](http://www.israelnationalnews.com/News/News.aspx/202404#.ViztFrerQgs)
+
+* [Arab man arrested after knife, kippa found in his pocket](http://www.jpost.com/Breaking-News/Arab-man-arrested-after-knife-kippa-found-in-his-pocket-430000)
+
+*10/25/15 10:30PM GMT Update*
+
+* [One wounded in terror stabbing at Ariel Junction](http://www.israelnationalnews.com/News/News.aspx/202418#.Vi1X_LerQgs), [Suspect Apprehended](http://www.israelnationalnews.com/News/News.aspx/202430#.Vi1X8rerQgs) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3pwi22/wave_of_violence_in_israel_and_the_palestinian/cwc88h5)**)
+
+* [Soldier injured in Beersheba attack was shot by police](http://www.timesofisrael.com/soldier-injured-in-beersheba-attack-was-shot-by-police/)
+
+* [PM considers canceling residency of 80,000 East Jerusalem Palestinians](http://www.ynetnews.com/articles/0,7340,L-4716274,00.html)
+
+*10/26/15 9:15PM GMT Update*
+
+* [Terror attack against IDF soldiers thwarted in Hebron](http://www.jpost.com/Arab-Israeli-Conflict/Initial-Report-Terrorist-shot-and-killed-during-stabbing-attack-at-Cave-of-Patriarchs-430084) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3pwi22/wave_of_violence_in_israel_and_the_palestinian/cwdbmdt)**)
+
+* [Rocket from Gaza explodes in Israel near border](http://www.jpost.com/Arab-Israeli-Conflict/Rocket-from-Gaza-explodes-near-Israel-border-430102) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3pwi22/wave_of_violence_in_israel_and_the_palestinian/cwdkgi9)**)
+
+* [Israel Air Force strikes Gaza targets following rocket attack on South](http://www.jpost.com/Arab-Israeli-Conflict/Israeli-Air-Force-strikes-Gaza-targets-following-rocket-attack-in-the-South-430123) (discussion comment **[here](https://www.reddit.com/r/worldnews/comments/3pwi22/wave_of_violence_in_israel_and_the_palestinian/cwds0t0)**)"
+68,This was left in the disc tray when my first-gen XBox was returned to me from Microsoft after overheating,<praw.models.comment_forest.CommentForest object at 0x7fcfb26dfb38>,johny380,0,97,0,False,gaming,,1450365908.0,3x81mo,
+69,How to pick up american girls...,<praw.models.comment_forest.CommentForest object at 0x7fcfb25f3e48>,RJ777,0,790,856,False,funny,,1402492192.0,27vga4,
+70,TIFU - Shark Touch Tank Accident -NSFW,<praw.models.comment_forest.CommentForest object at 0x7fcfb58d9048>,dick_thrownaway,1,268,134,False,tifu,,1469911352.0,4vdw36,"So to start with, here's the obligatory ""this actually happened about 4 weeks ago"". Using a throwaway because some people here know me.
+
+4 weeks ago, it was a friday night, I had just turned 19 and my friends and I were going to go spend the night partying to celebrate. One of my best friends works at the local aquarium and the plan was to meet up with him there after he got off from work.
+
+So we get there around 8 pm after the place has closed and he says we can chill out inside while he finishes a few last things. The aquarium has one of those touch tanks where you can pet stingrays and other cool sea critters so we hung out there while we waited for him.
+
+Now I had been to other aquariums before and seen touch tanks but this one was definitely unique. It was very large and has a ton of different species. Everything from hermit crabs to flounder to even a few small sharks. We started poking everything we could, probably giving half the creatures PTSD but once we saw the small sharks we forgot about everything else. There were two. Each was about 2 feet long. They were swimming around in slow circles like sharks do, like they were hunting for something.
+
+Interestingly, they didn't really react when we touched them. They just kept on swimming as if nothing had happened. So since they weren't reacting that much, we started daring each other to do crazier and crazier things to see if they would react. This is where things went wrong. I should probably add that we had pregamed a little so we weren't completely sober.
+
+It started with one of my friends tangling his hand in front of the shark, first for just a instant and then for longer and longer. Then my other friend upped the anti by sticking his tongue in the water. This guy is probably the craziest guy I know. About 5 years ago we used to be really close but we have since drifted apart. But for old times sake, I had called him up the day before and asked him if he wanted to hang out.
+
+So what was so crazy about sticking his tongue in the water? Well he had just gotten it pierced that afternoon and it was still a little bloody.
+
+Now, I know you probably now think you know where this is going, but I promise, you don't.
+
+So he sticks his bloody tongue in the water and the sharks IMMEDIATELY stop their slow circles and start heading his direction. We all start yelling at him to get his tongue out, but he's just laughing maniacally like the joker and tonguing the water like its a girl. He waits till the last instant, till the sharks are about a foot away and then he stands back up. He then looks at me and said something like ""your turn!""
+
+Well I had just been called out. Any other time, I would have laughed at the ridiculous of the situation and gone to see what was keeping my friend but like I said, we had been pregaming and I was not thinking straight.
+
+So I did the only thing I could think of to top that. I waited till the sharks had swam a little ways off, unzipped my pants and dropped my dick in the water. Your birthday, in front of your friends, is not the time to start acting like a pussy right?
+So I kind of twirl it around in the water, waiting for the sharks to circle back around and get close. My friend has waited till they were a foot away, so I felt I needed to wait till they were maybe 8 inches away.
+
+My dick is kind of stirring of the bloody water and the sharks sense this and start heading back. They get closer and closer. Suddenly, when they're about 15 inches away, my other friend who were waiting on walks back in. In that instant, I looked up and the sharks lunged for my dick. One shark actually ended up biting into the first one, but the first one got almost its whole mouth around my dick.
+
+I won't go into the gory details except to say that I had always heard on TV that shark's teeth are curved backwards to make it impossible for prey to escape and the TV was not lying.
+
+At the hospital, my foreskin was so shredded that they ended up just cutting it all off.
+
+Four weeks later, [this is what my dick looks like](http://imgur.com/a/nbESD)(3 pictures)
+
+TL;DR: Get drunk and stick dick into shark touch tank at aquarium. Dick gets bitten by shark while distracted. "
+71,"Dear America. Love, Canada.",<praw.models.comment_forest.CommentForest object at 0x7fcfb25e30f0>,Das_Mojo,0,416,709,False,funny,,1391125323.0,1wln0a,
+72,"[F]18, I'm a little shy, but here's my hot ass....",<praw.models.comment_forest.CommentForest object at 0x7fcfaf883f28>,tricky3737,0,231,723,False,funny,,1386722815.0,1slevy,
+73,"Girls who enjoy getting cum on your face, what was your first experience like? What does it mean to you psychologically?",<praw.models.comment_forest.CommentForest object at 0x7fcfb0f1bf98>,French_Bulldog,0,889,244,False,AskReddit,,1436623062.0,3cwv3l,
+74,"Teacher orgets projector is on, stalks student's Facebook profile",<praw.models.comment_forest.CommentForest object at 0x7fcfaf9a51d0>,,0,126,217,False,pics,,1416040407.0,2md6wk,
+75,"As a female who is generally unaware of her car, this was GREATLY appreciated. Thanks kind stranger!",<praw.models.comment_forest.CommentForest object at 0x7fcfaf6620f0>,mrredditkarma,0,137,362,False,pics,,1399206163.0,24otgb,
+76,He's back! Free sex (Rémi Gaillard),<praw.models.comment_forest.CommentForest object at 0x7fcfaf64db70>,HeftyDanielson,0,205,187,False,videos,,1396004959.0,21l1jq,
+77,Ladies let's get this right.,<praw.models.comment_forest.CommentForest object at 0x7fcfad0b1be0>,illshootyouintheface,0,158,131,False,funny,,1398605501.0,243pm7,
+78,"So my brother is on a road trip, and this is the single fucking picture he sends me",<praw.models.comment_forest.CommentForest object at 0x7fcfae820390>,lampshit,0,275,1621,False,funny,,1440814502.0,3iswb2,
+79,Modern music production,<praw.models.comment_forest.CommentForest object at 0x7fcfad0b54e0>,joecooool418,0,309,528,False,funny,,1388941234.0,1ugu6h,
+80,My friend dressed up as his mom & tried to get his phone back,<praw.models.comment_forest.CommentForest object at 0x7fcfb12494a8>,B4DASS,0,434,814,False,funny,,1400869710.0,26bfpp,
+81,Kanye West at his best...,<praw.models.comment_forest.CommentForest object at 0x7fcfb2017128>,Goldenoir,0,395,757,False,funny,,1399205872.0,24ot8o,
+82,Seems like anything can get to the frontpage on /r/funny so here's this.,<praw.models.comment_forest.CommentForest object at 0x7fcfb280b550>,Busterr,0,252,919,False,funny,,1399416948.0,24wkyj,
+83,R.I.P. to Justin Bieber's Career as of today (2009-2014),<praw.models.comment_forest.CommentForest object at 0x7fcfb450e400>,EzioBreed,0,3399,1119,False,videos,,1401905536.0,27b6pe,
+84,Kevin's figured it out,<praw.models.comment_forest.CommentForest object at 0x7fcfb1580dd8>,KashK10,0,437,767,False,funny,,1391959123.0,1xfq52,
+85,We're sharing our company's core values with the world,<praw.models.comment_forest.CommentForest object at 0x7fcfb214a4a8>,reddit,0,4033,0,False,blog,,1430932269.0,352twf,
+86,"Science AMA Series: I’m Laura Salazar, associate professor of health promotion and behavior at the School of Public Health at Georgia State University. I’m developing web-based approaches to preventing sexual assaults on college campuses. AMA!",<praw.models.comment_forest.CommentForest object at 0x7fcfb48a3358>,Prof_Laura_Salazar,0,302,0,False,science,Professor of Health Promotion |Georgia State,1446724618.0,3rmapx,"Hi, Reddit. I'm Laura Salazar, associate professor of health promotion and behavior  at the [School of Public Health](http://publichealth.gsu.edu/) at Georgia State University.
+
+I have developed a web-based training program targeted at college-aged men that has been found to be effective in reducing sexual assaults and increasing the potential for bystanders to intervene and prevent such attacks. I’m also working on a version aimed at college-aged women. I research the factors that lead to sexual violence on campuses and science-based efforts to address this widespread problem. I also research efforts to improve the sexual health of adolescents and adults, who are at heightened risk for sexually transmitted infections and HIV. 
+
+[Here is an article for more information](http://publichealth.gsu.edu/2014/09/15/web-based-training-can-reduce-campus-rape/)
+
+I’m signing off. Thank you all for your questions and comments."
+87,"I’m Zoë Quinn, the indie game developer behind the Chuck Tingle game, Depression Quest, and a whole mess of other stuff. AMA!",<praw.models.comment_forest.CommentForest object at 0x7fcfb1e47c88>,zoequinn,0,1082,86,False,IAmA,,1478547871.0,5bobt6,"I'm Zoë Quinn. I'm primarily an indie game developer [currently working
+on adapting niche amazon erotica darling Chuck Tingle's work into a
+full motion video game with gyrating unicorn men that is currently on
+Kickstarter](https://www.kickstarter.com/projects/703752115/kickstarted-in-the-butt-a-chuck-tingle-digital-adv?ref=user_menu), but I've also done various roles on games like Framed,
+Fez, They Bleed Pixels, Read Only Memories, and Jazzpunk.
+Additionally, I make a [lot other stuff](http://www.unburntwitch.com) like tiny comedy games like [Waiting For
+Godot: The Game](http://www.unburntwitch.com/godot.html), tell weird jokes on twitter, mess around with
+biohacking, and write books - my memoir will be out next year and is
+being turned into a movie by Pascal Pictures. I most recently worked on the expansion for [Betrayal At House On The Hill: Widows Walk](https://www.amazon.com/Betrayal-House-Hill-Widows-Board/dp/B01EOA7Y1O). I've spoken at the UN
+and the House of Representatives about online abuse after I became
+someone that the internet had extremely strong opinions about, but
+that subject has been talked to death at this point, especially compared to the gyrating unicorn butt cops. Let's talk!
+
+Proof: https://twitter.com/UnburntWitch/status/794642310780764161
+
+Edit: Thanks to all who participated and asked good questions (even some of the challenging ones that got downvoted that I tried to answer anyway if they seemed legit!) Be good to each other and PROVE LOVE IS REAL!! I need to go back to the Sexy Vampire Night Bus Mines and hope to create cool stuff that leaves you with even more questions. Bye for now!"
+88,How we decided to announce we were expecting.,<praw.models.comment_forest.CommentForest object at 0x7fcfb72f6cc0>,jesfunshinebear,0,767,796,False,funny,,1398903726.0,24ey4l,
+89,Joan Rivers,<praw.models.comment_forest.CommentForest object at 0x7fcfb4f25e48>,oakes_smnth,0,737,829,False,funny,,1391402016.0,1wv7v7,
+90,"'Jews, Out of France!' Around 17000 March in Paris Chanting Anti-Semitic Slurs",<praw.models.comment_forest.CommentForest object at 0x7fcfb8539828>,official_TASKER,0,1389,414,False,worldnews,,1391058969.0,1wj89m,
+91,Pokénatomy,<praw.models.comment_forest.CommentForest object at 0x7fcfb4f20f28>,Venau,0,111,50,False,gaming,,1465141674.0,4mny2f,
+92,Selena Gomez,<praw.models.comment_forest.CommentForest object at 0x7fcfae89d208>,wxnderwall,0,328,729,False,funny,,1392742427.0,1y95ck,
+93,Ladies: What non-sexual thing can make you want to bang a guy?,<praw.models.comment_forest.CommentForest object at 0x7fcfb0a62c18>,,0,1182,39,False,AskReddit,,1435229212.0,3b25v5,
+94,What is happening in this subreddit?,<praw.models.comment_forest.CommentForest object at 0x7fcfb0a62c88>,tnvb,0,394,3,False,apple,,1477745038.0,5a09xt,"I am fairly used to the overbearing amount of troll negativity on this thread, but since this August 27^th event, it has been just stupid. The first day after, I scrolled down the entire first page of submissions, and not one substantive or even neutral submission could be found. I think that's pretty sad, because hate or love what they did, it certainly warrants an interesting discussion. 
+
+Here are some of the genius points that made it to the top of the heap: 
+
+* **I cannot plug my iPhone 7 into my new MBP:** That is as relevant as saying I cannot put my diskette into my electric shaver. That is neither mind boggling nor weird. The last phone that needed to be plugged into a computer was the iPhone 3G.
+
+* **Apple priced me out, I am switching to Microsoft and getting a Surface Studio:** Never mind that Apple was always on the upper end of expensive, this one is truly mind numbing. First, inflation adjusted this is far from the most expensive MBP Apple has offered, but that is not even scratching the surface. The cost of ownership of Apple laptops has been shown over and over to be very competitive. Lower maintenance costs, high life expectancy and high residual values actually have made Apple laptops often cheaper than much of the competition during the time of ownership. And just as a side comment, the Surface Studio is more expensive than a MacPro, like twice as expensive than a 5K iMac and makes the new MBP look like Apple priced it to compete with the Raspberry Pi. 
+
+* **Touch Bar is like the most gimmicky thing ever:** These must be the same people that complain about touchscreen phones. I mean it is just astounding that in 2016 people violently defend the notion of static function keys over an intelligently adaptable, multi touch screen. When I type a Zip code on my iPhone, I am glad when I get the NumPad keyboard and **NOT** the QWERTY, and on the flip side, I still get mad when I have to type in my credit card number and get the QWERTY keyboard. It's annoying. That is why digital keyboards on smartphones are genius. Smartphones can display the appropriate keyboard for the task! That makes sense and very shortly after 2007 has become the universal standard. If you want to go back to a BlackBerry Pearl (not a bad phone, by the way) you can, but I like multi-touch screens with adaptable software that uses the bottom 50% of my phone more intelligently than simply having static, plastic keys like in an old ass BlackBerry that can never change, and never adapt to anything. This is no different with TouchBar. Sure, typing is better on a physical keyboard, at least until haptic feedback is a little more advanced, but the function keys are surely an obvious place to start reclaiming a lot of real estate and making it smarter. It's not quite like reclaiming the bottom 50% of BlackBerries back in the day, but that is still a large strip of computer that is now inarguably superiorly used. You can still have the TouchBar mimic your old, static function keys, but to also make it this totally adaptable interface for the software you are using is actually really smart and the demos only showed a first attempt of what developers could do with it. This technology will absolutely make life easier and better. 
+
+* **Nothing in Apple integrates anymore, nothing just works:** The usual example cited is that you need a dongle for something. I mean in a time when I can start writing an email on my iMac, continue on my iPad when going to the bathroom thanks to continuity, copy a relevant picture I find on my iPad, paste it back into the email on my iMac after my defecation without skipping a beat and in the meanwhile iCloud has synched every file, every contact, every Wifi password, every other password, my calendars, to-do lists, photos, videos, music, and made freakish backups of all of my devices that even restore the very website I was on to find that picture while pooping with my iPad should I have accidentally dropped the iPad into the toilette and destroyed it, requiring a new purchase, the statement that nothing works together in the Apple ecosystem anymore is just wonderful. 
+
+There, I put into a million words what I have been thinking about this subreddit for a while now. Not sure what I tried to accomplish, but I feel better."
+95,This is how the star quarter back and the half back came out on the last day of school in Alabama. So proud of them!,<praw.models.comment_forest.CommentForest object at 0x7fcfb161fb38>,,0,168,240,False,pics,,1431619260.0,35yi3l,
+96,"Real WW1 footage: A rare video of a real front line clash, British Soldiers advancing from the right and German Soldiers from the left.",<praw.models.comment_forest.CommentForest object at 0x7fcfb160cda0>,LeWhisp,0,107,82,False,videos,,1431438128.0,35pkaz,
+97,Stripper transformation - Before and After,<praw.models.comment_forest.CommentForest object at 0x7fcfb4f07ba8>,Dannydreadd,0,302,692,False,pics,,1393419631.0,1yzhmn,
+98,Possibly the greatest selfie ever taken...,<praw.models.comment_forest.CommentForest object at 0x7fcfb4e909e8>,RyanCast1,0,1185,1096,False,pics,,1393628691.0,1z7x0s,
+99,Justice,<praw.models.comment_forest.CommentForest object at 0x7fcfae6f5f28>,UFCWWF,0,63,0,False,pics,,1406566011.0,2byi1e,
